@@ -1,0 +1,26 @@
+{
+    "debug": true,
+    "app_domain": "127.0.0.1",
+    "app_port": 8080,
+    "youtube": {
+        "api_key": "AIzaSyD-zVJzvA0uXcIihEBKZvQnePzGXBNlAHk",
+        "channels": [
+            "UCux-T7Pae5uvY7x5FoQDNPg"
+        ]
+    },
+    "leaderboard": {
+        "roobet": {
+            "api_endpoint": "https://api.roobet.com/affiliate/stats",
+            "api_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRmZDIxNWJhLTY3YWQtNGQ0MS05MDljLTYyYjk0NjlmNWRkOSIsIm5vbmNlIjoiM2M5NmNkNGItMWZiMi00Mzg4LWE3OGItNTJjNjMyYzc1ZDJkIiwic2VydmljZSI6ImFmZmlsaWF0ZVN0YXRzIiwiaWF0IjoxNjkyODA4NTc5fQ.43b36q9ATRQFDPVpFq3fDcTcyXLEr9d2qsthP23Ior0",
+            "start_at": "2023-09-22T19:00:00Z",
+            "duration_days": 30,
+            "prizes": [
+                1500.0,
+                750.0,
+                350.0,
+                250.0,
+                150.0
+            ]
+        }
+    }
+}
